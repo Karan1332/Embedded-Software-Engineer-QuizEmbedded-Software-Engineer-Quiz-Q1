@@ -1,5 +1,5 @@
 # Embedded-Software-Engineer-QuizEmbedded-Software-Engineer-Quiz-Q1
-# Quiz 1
+# Quiz1
 #include <stdio.h>
 
 void print_squares(int n, int m) {
